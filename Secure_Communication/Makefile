@@ -1,0 +1,2 @@
+COMPONENT=CyberInsecureAppC
+include $(MAKERULES)
