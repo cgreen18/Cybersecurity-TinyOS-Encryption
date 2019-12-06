@@ -1,0 +1,2 @@
+COMPONENT=ClientAppC
+include $(MAKERULES)
